@@ -3,14 +3,14 @@
     width : 100vw;
     background-color: #2e364f;
 }
-.Homepage h1{
+.Homepage .Title{
     font-family: 'Lato', sans-serif;
     margin : 0;
     padding: 20vh 0 0 0;
     color: #ef5939;
     font-size: 100px;
 }
-.Homepage h4{
+.Homepage .ContactInfo{
     font-family: 'Lato', sans-serif;
     color: #ef5939;
     font-size: 20px;

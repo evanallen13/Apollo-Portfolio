@@ -7,7 +7,7 @@ export default function Projects() {
     return (
         <div className="Projects">
             <Nav page={"Nav ProjectsNav"}></Nav>
-            <h1>Projects</h1>
+            <h1 className="projectTitle">Projects</h1>
             <Footer page={'Footer ProjectsFooter'}></Footer>
         </div>
     )

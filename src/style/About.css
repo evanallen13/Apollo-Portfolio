@@ -5,19 +5,20 @@
     text-align: center;
     padding : 0 0 100px 0;
 }
-.About h1{
+.About .aboutTitle{
     font-family: 'Lato', sans-serif;
     color: #f3f0e2;
     padding : 40px 0 0 0;
     font-size: 50px;
+    margin : 0;
 }
 
-.About h4{
+.About .aboutSubTitle{
     font-family: 'Lato', sans-serif;
     color: #f3f0e2;
 }
 
-.About p{
+.About .aboutP{
     font-family: 'Lato', sans-serif;
     color: #f3f0e2;
     width : 400px;
