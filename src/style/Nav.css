@@ -1,0 +1,29 @@
+body{
+    margin : 0;
+}
+.Nav{
+    width : 100vw;
+    position: fixed;
+    padding : 10px 0 5px 0
+}
+.HomepageNav{
+    background-color: #2e364f;
+    color: #ef5939;
+}
+.AboutNav{
+    background-color: #2d5d7c;
+    color: #ef5939;
+}
+.ProjectsNav{
+    background-color: #f3f0e2;
+    color: #ef5939;
+}
+
+.navLink{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    display: inline;
+    margin : 0 10px 0 10px;
+    color:  rgb(239, 89, 57);
+    text-decoration: none
+}

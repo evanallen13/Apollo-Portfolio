@@ -1,0 +1,21 @@
+.Footer{
+    position: fixed;
+    bottom: 0;
+    width : 100vw;
+    height: 55px;
+}
+.HomepageFooter{
+    background-color: #2e364f;
+    color: #ef5939;
+}
+.AboutFooter{
+    background-color: #2d5d7c;
+    color: #ef5939;
+}
+.ProjectsFooter{
+    background-color: #f3f0e2;
+    color: #ef5939;
+}
+.Footer img{
+    margin : 0 2.5% 0 2.5%;
+}

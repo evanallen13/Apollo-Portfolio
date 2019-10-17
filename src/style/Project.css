@@ -1,0 +1,13 @@
+.Projects{
+    background-color: #f3f0e2;
+    height: 100vh;
+    width : 100vw;
+}
+
+.Projects h1{
+    color: #2d5d7c;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    margin : 0;
+    padding : 40px 0 0 0
+}

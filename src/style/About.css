@@ -1,0 +1,26 @@
+.About{
+    background-color: #2d5d7c;
+    height: 100%;
+    min-height: 100vh;
+    text-align: center;
+    padding : 0 0 100px 0;
+}
+.About h1{
+    font-family: 'Lato', sans-serif;
+    color: #f3f0e2;
+    padding : 40px 0 0 0;
+    font-size: 50px;
+}
+
+.About h4{
+    font-family: 'Lato', sans-serif;
+    color: #f3f0e2;
+}
+
+.About p{
+    font-family: 'Lato', sans-serif;
+    color: #f3f0e2;
+    width : 400px;
+    max-width: 90vw;
+    margin : 0 auto;
+}

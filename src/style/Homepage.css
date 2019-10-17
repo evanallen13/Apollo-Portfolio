@@ -1,0 +1,26 @@
+.Homepage{
+    height: 100vh;
+    width : 100vw;
+    background-color: #2e364f;
+}
+.Homepage h1{
+    font-family: 'Lato', sans-serif;
+    margin : 0;
+    padding: 20vh 0 0 0;
+    color: #ef5939;
+    font-size: 100px;
+}
+.Homepage h4{
+    font-family: 'Lato', sans-serif;
+    color: #ef5939;
+    font-size: 20px;
+    margin : 15px 0 0 0;
+}
+
+/* 
+    dark blue : #2e364f
+    light blue : #2d5d7c
+    orange : #ef5939
+    white : #f3f0e2
+
+*/
