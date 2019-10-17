@@ -17,6 +17,13 @@
     margin : 15px 0 0 0;
 }
 
+@media screen and (max-width: 600px) {
+    .Homepage .Title{
+        padding: 40px 0 0 0;
+    }
+  }
+
+
 /* 
     dark blue : #2e364f
     light blue : #2d5d7c
